@@ -8,7 +8,6 @@ This is a Python application built with the Tkinter library that allows you to m
 - **Event Details**: Enter event details, including event name, start time, and end time.
 - **Save Event**: Save the event with the specified date and details.
 - **Show Events**: View a list of all saved events.
-- **View Events for a Specific Date**: Click on a date in the calendar to see events scheduled for that day.
 
 ## Installation
 
